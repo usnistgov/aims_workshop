@@ -1,4 +1,4 @@
-# AIMS_2025_workshop
+# AIMS_2024_workshop
 
 ### JARVIS AIMS Event page: 
 
@@ -6,7 +6,7 @@
 
 ### Agenda: 
 
-[Agenda](https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop)
+[Agenda](https://www.nist.gov/news-events/events/2024/07/2024-artificial-intelligence-materials-science-aims-workshop)
 
 ### Day 1
 
