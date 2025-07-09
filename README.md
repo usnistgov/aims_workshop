@@ -1,10 +1,6 @@
 # AIMS_2025_workshop
 
-### JARVIS AIMS Event page: 
-
-[Event Page](https://jarvis.nist.gov/events/aims)
-
-### Agenda: 
+### Event Page and Agenda: 
 
 [Agenda](https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop)
 
@@ -12,7 +8,7 @@
 
 ### Introduction: 
 * "Opening Remarks", Jim Warren (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS-2024-JamesWarren.pdf)
-* "Welcome and Logistics", Kamal Choudhary (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf)
+* "Welcome and Logistics", Daniel Wines (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf)
 ### Session 1:
 * "Machine learning electrochemistry", Nicola Marzari (EPFL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Marzari%20NIST%20AIMS.pdf)
 * "Predicting Quantum Monte Carlo Charge Densities using Graph Neural Networks", Abdulgani Annaberdiyev and P. Ganesh (ORNL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Gani-Annaberdiyev_AIMS_QMC-GNN.pdf)
