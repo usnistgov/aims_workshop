@@ -31,9 +31,11 @@ Overview Slides for Hands-on, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST)
 
 [MicroscopyGPT_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/MicroscopyGPT.ipynb)
 
-Additional Reference: JARVIS-Tools-Notebooks, the largest collection of materials design notebooks:
+### Additional Reference: 
 
-https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks
+JARVIS-Tools-Notebooks, the largest collection of materials design notebooks:
+
+https://github.com/atomgptlab/jarvis-tools-notebooks
 
 JARVIS Database
 
