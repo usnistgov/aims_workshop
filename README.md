@@ -7,11 +7,13 @@
 
 ### Hands-on session:
 
-Overview Slides for Hands-on, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS_handson_2024_slides.pdf)
+Overview Slides for Hands-on, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST). (slides coming soon)
 
 ### JARVIS-DFT: 
 
 [Analyzing_data_in_the_JARVIS_DFT_dataset](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_DFT_dataset.ipynb)
+
+### Machine Learning Force Fields: 
 
 ### ALIGNN: 
 
@@ -19,12 +21,11 @@ Overview Slides for Hands-on, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST)
 
 ### CHIPS-FF:
 
-
 ### AtomGPT:
 
 [AtomGPT_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/atomgpt_example.ipynb)
-
-
+[DiffractGPT_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/DiffractGPT_example.ipynb)
+[MicroscopyGPT_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/MicroscopyGPT.ipynb)
 
 Additional Reference: JARVIS-Tools-Notebooks, the largest collection of materials design notebooks:
 
