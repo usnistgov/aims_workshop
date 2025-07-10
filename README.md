@@ -14,7 +14,7 @@ Overview Slides for Hands-on, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST)
 [Analyzing_data_in_the_JARVIS_DFT_dataset](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_DFT_dataset.ipynb)
 
 ### Machine Learning Force Fields:
-[Intro to GNN force fields](tutorials/intro-gnn-potentials.ipynb) ([open in colab](https://colab.research.google.com/github/bdecost/aims_workshop/blob/main/tutorials/intro-gnn-potentials.ipynb))
+[Intro to GNN force fields](tutorials/intro-gnn-potentials.ipynb) ([open in colab](https://colab.research.google.com/github/usnistgov/aims_workshop/blob/main/tutorials/intro-gnn-potentials.ipynb))
 
 ### ALIGNN:
 
