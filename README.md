@@ -24,7 +24,9 @@ Overview Slides for Hands-on, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST)
 ### AtomGPT:
 
 [AtomGPT_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/atomgpt_example.ipynb)
+
 [DiffractGPT_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/DiffractGPT_example.ipynb)
+
 [MicroscopyGPT_example](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/MicroscopyGPT.ipynb)
 
 Additional Reference: JARVIS-Tools-Notebooks, the largest collection of materials design notebooks:
