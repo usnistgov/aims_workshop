@@ -1,6 +1,6 @@
 # AIMS_2025_workshop
 
-### Event Page and Agenda: 
+### Event Page and Agenda:
 
 [Agenda](https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop)
 
@@ -9,13 +9,14 @@
 
 Overview Slides for Hands-on, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST). (slides coming soon)
 
-### JARVIS-DFT: 
+### JARVIS-DFT:
 
 [Analyzing_data_in_the_JARVIS_DFT_dataset](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_DFT_dataset.ipynb)
 
-### Machine Learning Force Fields: 
+### Machine Learning Force Fields:
+[Intro to GNN force fields](tutorials/intro-gnn-potentials.ipynb) ([open in colab](https://colab.research.google.com/github/usnistgov/aims_workshop/blob/main/tutorials/intro-gnn-potentials.ipynb))
 
-### ALIGNN: 
+### ALIGNN:
 
 [Basic_ALIGNN](https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/alignn_jarvis_leaderboard.ipynb)
 
