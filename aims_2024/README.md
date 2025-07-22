@@ -11,15 +11,15 @@
 ### Day 1
 
 ### Introduction: 
-* "Opening Remarks", Jim Warren (NIST). [Slides PDF](https://github.com/usnistgov/aims_workshop/aims_2024/blob/main/AIMS-2024-JamesWarren.pdf)
-* "Welcome and Logistics", Kamal Choudhary (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf)
+* "Opening Remarks", Jim Warren (NIST). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/AIMS-2024-JamesWarren.pdf)
+* "Welcome and Logistics", Kamal Choudhary (NIST). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Kamal_AIMS_intro_2024.pptx.pdf)
 ### Session 1:
-* "Machine learning electrochemistry", Nicola Marzari (EPFL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Marzari%20NIST%20AIMS.pdf)
-* "Predicting Quantum Monte Carlo Charge Densities using Graph Neural Networks", Abdulgani Annaberdiyev and P. Ganesh (ORNL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Gani-Annaberdiyev_AIMS_QMC-GNN.pdf)
-* "Increasing AI/ML Predictions Through DMC-enhanced Delta Learning", Anouar Benali (ANL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST_AIMS_WORKSHOP_Benali.pdf)
-* "Unleashing the Power of Artificial Intelligence for Phonon Thermal Transport", Ming Hu (University of South Carolina). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Ming_Hu_Seminar_NIST_AIMS_20240717.pdf)
-* "Machine learning models for accelerating materials discovery", Christopher Sutton (University of South Carolina). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST_071624_Sutton.pdf)
-* "Accelerating Scientific Discovery in Catalysis with Artificial Intelligence", Hongliang Xin (Virginia Tech). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/2024%20AIMS%20NIST%20XIN-compressed.pdf)
+* "Machine learning electrochemistry", Nicola Marzari (EPFL). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Marzari%20NIST%20AIMS.pdf)
+* "Predicting Quantum Monte Carlo Charge Densities using Graph Neural Networks", Abdulgani Annaberdiyev and P. Ganesh (ORNL). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Gani-Annaberdiyev_AIMS_QMC-GNN.pdf)
+* "Increasing AI/ML Predictions Through DMC-enhanced Delta Learning", Anouar Benali (ANL). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/NIST_AIMS_WORKSHOP_Benali.pdf)
+* "Unleashing the Power of Artificial Intelligence for Phonon Thermal Transport", Ming Hu (University of South Carolina). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Ming_Hu_Seminar_NIST_AIMS_20240717.pdf)
+* "Machine learning models for accelerating materials discovery", Christopher Sutton (University of South Carolina). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/NIST_071624_Sutton.pdf)
+* "Accelerating Scientific Discovery in Catalysis with Artificial Intelligence", Hongliang Xin (Virginia Tech). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/2024%20AIMS%20NIST%20XIN-compressed.pdf)
 ### Session 2:
 * "Integrating Autonomous Systems for Advanced Material Discovery: Bridging Experiments and Theory Through Optimized Rewards", Sergei Kalinin (UT Knoxville and PNNL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST_2024_Rewards_v2a_Kalinin.pdf)
 * "HPC+AI-enabled Materials Characterization and Experimental Automation", Mathew Cherukara (ANL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Cherukara_AI_APS_NIST.pdf)
