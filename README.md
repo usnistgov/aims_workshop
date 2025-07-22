@@ -40,7 +40,7 @@
 
 ### Hands-on session:
 
-Overview Slides for Hands-on, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST). [Slides PDF]([https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS_handson_2024_slides.pdf](https://github.com/usnistgov/aims_workshop/blob/main/AIMS_handson_2025_final.pdf))
+Overview Slides for Hands-on, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AIMS_handson_2025_final.pdf)
 
 ### JARVIS-DFT:
 
