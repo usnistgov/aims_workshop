@@ -21,33 +21,33 @@
 * "Machine learning models for accelerating materials discovery", Christopher Sutton (University of South Carolina). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/NIST_071624_Sutton.pdf)
 * "Accelerating Scientific Discovery in Catalysis with Artificial Intelligence", Hongliang Xin (Virginia Tech). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/2024%20AIMS%20NIST%20XIN-compressed.pdf)
 ### Session 2:
-* "Integrating Autonomous Systems for Advanced Material Discovery: Bridging Experiments and Theory Through Optimized Rewards", Sergei Kalinin (UT Knoxville and PNNL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST_2024_Rewards_v2a_Kalinin.pdf)
-* "HPC+AI-enabled Materials Characterization and Experimental Automation", Mathew Cherukara (ANL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Cherukara_AI_APS_NIST.pdf)
-* "Targeted AI-Driven Materials Discovery", Chris Stiles (JHUAPL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Stiles_NIST-AIMS_ELEM3NT%2020240711_v4_f2.pdf)
-* "Algorithms and opportunities for self-driving laboratories: model-based control, physics discovery, and co-navigating theory and experiments", Rama Vasudevan (ORNL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Rama_Vasudevan_NIST_AIMS.pdf)
+* "Integrating Autonomous Systems for Advanced Material Discovery: Bridging Experiments and Theory Through Optimized Rewards", Sergei Kalinin (UT Knoxville and PNNL). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/NIST_2024_Rewards_v2a_Kalinin.pdf)
+* "HPC+AI-enabled Materials Characterization and Experimental Automation", Mathew Cherukara (ANL). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Cherukara_AI_APS_NIST.pdf)
+* "Targeted AI-Driven Materials Discovery", Chris Stiles (JHUAPL). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Stiles_NIST-AIMS_ELEM3NT%2020240711_v4_f2.pdf)
+* "Algorithms and opportunities for self-driving laboratories: model-based control, physics discovery, and co-navigating theory and experiments", Rama Vasudevan (ORNL). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Rama_Vasudevan_NIST_AIMS.pdf)
 * "Theory-informed AI/ML for materials characterization", Maria Chan (ANL).
 * "Data-driven approaches to lattice dynamics and vibrational spectroscopy", Yongqiang Cheng (ORNL).
 
 ### Day 2
 
 ### Session 3:
-* "Data Standards: the key enabler of AI-driven materials science at the nanoscale", Timur Bazhirov (Mat3ra). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Timur%20Bazhirov%20-%202024-07-18%20-%20NIST%20AIMS.pdf)
-* "Chemical Foundation Models for Complex Materials", Vidushi Sharma (IBM). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Vidushi_Sharma_AIMS_2024.pdf)
-* "A Practical Guide to Building with LLMs", Eddie Kim (Cohere). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST%20-%20Eddie%20Kim%20-%20July%202024.pdf)
-* "Beyond Experimental Structures: Advancing Materials Discovery with Generative AI", Anuroop Sriam (Meta). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Anuroop%20Sriram%20AIMS.pdf)
+* "Data Standards: the key enabler of AI-driven materials science at the nanoscale", Timur Bazhirov (Mat3ra). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Timur%20Bazhirov%20-%202024-07-18%20-%20NIST%20AIMS.pdf)
+* "Chemical Foundation Models for Complex Materials", Vidushi Sharma (IBM). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Vidushi_Sharma_AIMS_2024.pdf)
+* "A Practical Guide to Building with LLMs", Eddie Kim (Cohere). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/NIST%20-%20Eddie%20Kim%20-%20July%202024.pdf)
+* "Beyond Experimental Structures: Advancing Materials Discovery with Generative AI", Anuroop Sriam (Meta). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Anuroop%20Sriram%20AIMS.pdf)
 * "Accelerating materials design with AI emulators and generators", Tian Xie (Microsoft).
 * "Combining machine-learning, physics, and infrastructure to accelerate materials research", Ale Strachan (Purdue).
-* "Improving machine learning with polymer physics", Debra Audus (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Audus_AIMS_forposting.pdf)
-* "Integrated Data Science and Computational Materials Science in Complex Materials", Dilpuneet Aidhy (Clemson). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/2024%20Aidhy-%20NIST%20Presentation.pdf)
+* "Improving machine learning with polymer physics", Debra Audus (NIST). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/Audus_AIMS_forposting.pdf)
+* "Integrated Data Science and Computational Materials Science in Complex Materials", Dilpuneet Aidhy (Clemson). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/2024%20Aidhy-%20NIST%20Presentation.pdf)
 ### Session 4:
-* "Sampling Strategies for Robust MLIPs", Michael Waters (Northwestern). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS_2024_mjwaters_final.pdf)
-* "Random Sampling of Chemical Space", Guido von Rudorff (U. of Kassel). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/von_Rudorff.pdf)
-* "Data-driven microstructure-property mapping: the importance of microstructure representation", Olga Wodo (Buffalo). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/OWodo-AIMs.pptx.pdf)
-* "Artificial Intelligence for Materials Geometric Representation Learning and High Tensor Order Property Predictions", Keqiang Yan (TAMU). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST-KeqiangYan.pdf)
+* "Sampling Strategies for Robust MLIPs", Michael Waters (Northwestern). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/AIMS_2024_mjwaters_final.pdf)
+* "Random Sampling of Chemical Space", Guido von Rudorff (U. of Kassel). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/von_Rudorff.pdf)
+* "Data-driven microstructure-property mapping: the importance of microstructure representation", Olga Wodo (Buffalo). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/OWodo-AIMs.pptx.pdf)
+* "Artificial Intelligence for Materials Geometric Representation Learning and High Tensor Order Property Predictions", Keqiang Yan (TAMU). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024NIST-KeqiangYan.pdf)
 
 ### Hands-on session:
 
-Overview Slides for Hands-on, Peter Bajcsy, Austin McDannald, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS_handson_2024_slides.pdf)
+Overview Slides for Hands-on, Peter Bajcsy, Austin McDannald, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST). [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/aims_2024/AIMS_handson_2024_slides.pdf)
 
 ### Part-1: 
 
