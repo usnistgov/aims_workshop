@@ -2,7 +2,7 @@
 
 ### Event Page and Agenda:
 
-[Agenda](https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop)
+[Videos and Agenda](https://www.nist.gov/news-events/events/2025/07/artificial-intelligence-materials-science-aims-workshop)
 
 
 ### Hands-on session:
