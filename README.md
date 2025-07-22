@@ -17,22 +17,22 @@
 * Tess Smidt (MIT): "Applications of Euclidean Neural Networks for the Understanding and Design of Atomistic Systems." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/2025.07.08%20--%20AIMS%20workshop%20--%2020min%20--%20Harnessing%20E(3)NNs%20for%20the%20Understanding%20and%20Design%20of%20Physical%20Systems.pdf)
 ### Session 2:
 * Benji Maruyama (AFRL): "Accelerated Research through Autonomous Experimentation/Self-driving Labs."
-* Ichiro Takeuchi: "Self-navigating thin film laboratory: real-time AI-driven optimization of functional thin films."
-* Panchapakesan Ganesh: "Towards Theory-in-the-loop for Autonomous Experiments–workflows, ML models and ab initio developments leveraging extreme scale computations." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AIMS_vFINAL_PGanesh_ORNL.pdf)
-* Joseph Krause: "Radical AI: A New Form of Science."
-* Jia-Mian Hu: "Graph-based Microstructure Informatics."
-* Olga S. Ovchinnikova: "Data Harmonization and Hardware Integration for Labs of the Future.”
+* Ichiro Takeuchi (UMD): "Self-navigating thin film laboratory: real-time AI-driven optimization of functional thin films."
+* Panchapakesan Ganesh (ORNL): "Towards Theory-in-the-loop for Autonomous Experiments–workflows, ML models and ab initio developments leveraging extreme scale computations." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AIMS_vFINAL_PGanesh_ORNL.pdf)
+* Joseph Krause (Radical AI): "Radical AI: A New Form of Science."
+* Jia-Mian Hu (Wisconsin): "Graph-based Microstructure Informatics."
+* Olga S. Ovchinnikova (Thermo Fisher Scientific): "Data Harmonization and Hardware Integration for Labs of the Future.”
 
 ### Day 2
 
 ### Session 3:
-* Heather Kulik: "Leveraging experimental data in machine learning and screening to get from computational model to real world materials fast."
-* Aditya Nandy: "Using Text-Mining, Community Knowledge, and Generative Modeling to Quantify and Engineer Stability in MOFs." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/nandy.pdf)
-* Corey Oses: "High-Entropy Oxides and Halides: Expanding the Energy-Materials Space."
-* Ali Hamze: "GEARS H: Accurate machine-learned Hamiltonians for next-generation device-scale modeling."
-* Luis Barroso-Luque: "Exploring the Frontier of Universal Machine Learning Potentials Part 1: Insights from OMat24 and eSEN." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AIMS-OMAT-eSEN-7-2025.pdf)
-* Brandon Wood: "Exploring the Frontier of Universal Machine Learning Potentials Part 2: Insights from OMol25 and UMA." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AIMS-OMol25-UMA-2025.pdf)
-* Steven Torrisi: "Extracting Insights from Atomistic and Spectroscopic Materials Data." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/torissi.pdf)
+* Heather Kulik (MIT): "Leveraging experimental data in machine learning and screening to get from computational model to real world materials fast."
+* Aditya Nandy (UCLA): "Using Text-Mining, Community Knowledge, and Generative Modeling to Quantify and Engineer Stability in MOFs." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/nandy.pdf)
+* Corey Oses (JHU): "High-Entropy Oxides and Halides: Expanding the Energy-Materials Space."
+* Ali Hamze (Samsung): "GEARS H: Accurate machine-learned Hamiltonians for next-generation device-scale modeling."
+* Luis Barroso-Luque (Meta): "Exploring the Frontier of Universal Machine Learning Potentials Part 1: Insights from OMat24 and eSEN." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AIMS-OMAT-eSEN-7-2025.pdf)
+* Brandon Wood (Meta): "Exploring the Frontier of Universal Machine Learning Potentials Part 2: Insights from OMol25 and UMA." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AIMS-OMol25-UMA-2025.pdf)
+* Steven Torrisi (Toyota): "Extracting Insights from Atomistic and Spectroscopic Materials Data." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/torissi.pdf)
 
 ### Session 4:
 
