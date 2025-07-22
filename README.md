@@ -35,7 +35,10 @@
 * Steven Torrisi (Toyota): "Extracting Insights from Atomistic and Spectroscopic Materials Data." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/torissi.pdf)
 
 ### Session 4:
+* Milad Abolhasani (NC State): "Data-Rich Autonomous Labs for Accelerated Materials and Molecular Discovery."
+* Shengyen Li (NIST): "Toward the Verification, Validation, and Uncertainty Quantification Strategy for Simulations for Additive Manufacturing." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AI4Materials-SYLi.pdf)
 
+* Nathan Johnson (ZEISS): An Autonomous, Large Language Model Driven X-ray Microscope." 
 
 
 ### Hands-on session:
