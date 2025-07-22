@@ -16,7 +16,12 @@
 * Roberto Car (Princeton): "Bottom-up Ab-initio Multiscale Modeling of Materials with Machine Learning." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/NIST-AIMS_talk_Car.pdf)
 * Tess Smidt (MIT): "Applications of Euclidean Neural Networks for the Understanding and Design of Atomistic Systems." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/2025.07.08%20--%20AIMS%20workshop%20--%2020min%20--%20Harnessing%20E(3)NNs%20for%20the%20Understanding%20and%20Design%20of%20Physical%20Systems.pdf)
 ### Session 2:
-
+* Benji Maruyama (AFRL): "Accelerated Research through Autonomous Experimentation/Self-driving Labs."
+* Ichiro Takeuchi: "Self-navigating thin film laboratory: real-time AI-driven optimization of functional thin films."
+* Panchapakesan Ganesh: "Towards Theory-in-the-loop for Autonomous Experiments–workflows, ML models and ab initio developments leveraging extreme scale computations." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AIMS_vFINAL_PGanesh_ORNL.pdf)
+* Joseph Krause: "Radical AI: A New Form of Science."
+* Jia-Mian Hu: "Graph-based Microstructure Informatics."
+* Olga S. Ovchinnikova: "Data Harmonization and Hardware Integration for Labs of the Future.”
 
 ### Day 2
 
