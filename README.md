@@ -26,6 +26,13 @@
 ### Day 2
 
 ### Session 3:
+* Heather Kulik: "Leveraging experimental data in machine learning and screening to get from computational model to real world materials fast."
+* Aditya Nandy: "Using Text-Mining, Community Knowledge, and Generative Modeling to Quantify and Engineer Stability in MOFs." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/nandy.pdf)
+* Corey Oses: "High-Entropy Oxides and Halides: Expanding the Energy-Materials Space."
+* Ali Hamze: "GEARS H: Accurate machine-learned Hamiltonians for next-generation device-scale modeling."
+* Luis Barroso-Luque: "Exploring the Frontier of Universal Machine Learning Potentials Part 1: Insights from OMat24 and eSEN." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AIMS-OMAT-eSEN-7-2025.pdf)
+* Brandon Wood: "Exploring the Frontier of Universal Machine Learning Potentials Part 2: Insights from OMol25 and UMA." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/AIMS-OMol25-UMA-2025.pdf)
+* Steven Torrisi: "Extracting Insights from Atomistic and Spectroscopic Materials Data." [Slides PDF](https://github.com/usnistgov/aims_workshop/blob/main/torissi.pdf)
 
 ### Session 4:
 
