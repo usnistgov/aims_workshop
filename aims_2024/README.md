@@ -11,7 +11,7 @@
 ### Day 1
 
 ### Introduction: 
-* "Opening Remarks", Jim Warren (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS-2024-JamesWarren.pdf)
+* "Opening Remarks", Jim Warren (NIST). [Slides PDF](https://github.com/usnistgov/aims_workshop/aims_2024/blob/main/AIMS-2024-JamesWarren.pdf)
 * "Welcome and Logistics", Kamal Choudhary (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf)
 ### Session 1:
 * "Machine learning electrochemistry", Nicola Marzari (EPFL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Marzari%20NIST%20AIMS.pdf)
